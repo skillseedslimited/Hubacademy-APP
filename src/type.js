@@ -1,0 +1,7 @@
+export const USER = 'USER'
+export const PROCESS_LOGIN = 'PROCESS_LOGIN'
+export const SET_TOKEN = 'SET_TOKEN'
+export const LOGOUT = 'LOGOUT'
+export const REFLECTIONS = 'REFLECTIONS'
+export const REFLECTION_FOR_TODAY = 'REFLECTION_FOR_TODAY'
+export const CONTENT_CATEGORY = 'CONTENT_CATEGORY'
